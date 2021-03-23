@@ -1,0 +1,5 @@
+pip>=21.0.1
+py4j==0.10.6
+psutil>=5.8.0
+pyspark==2.3.0
+setuptools>=54.1.2
